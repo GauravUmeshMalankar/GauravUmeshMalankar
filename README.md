@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Gaurav Malankar
+**Software Developer** • PHP, Django, MySQL • Learning Data Science
+
+## 🔭 Current work
+- Converting CommitteeMaster (PHP) to Django.
+
+## 🛠 Skills
+- PHP · MySQL · Bootstrap · Django · Python
+
+## 📂 Projects
+- [Housing Society System](link) — Django conversion
+- [Waste Management App](link) — PHP + MySQL
+
+## 📫 Contact
+- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+
