@@ -16,19 +16,18 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Gaurav Malankar
-**Software Developer** • PHP, Django, MySQL • Learning Data Science
+**Software Developer** • Python, Django, PHP, MySQL 
 
-## 🔭 Current work
-- Converting CommitteeMaster (PHP) to Django.
+
 
 ## 🛠 Skills
-- PHP · MySQL · Bootstrap · Django · Python
+- ·Django ·Python ·PHP ·MySQL ·Bootstrap
 
 ## 📂 Projects
-- [Housing Society System](link) — Django conversion
-- [Waste Management App](link) — PHP + MySQL
+- [Housing Society Management System](link)
+
 
 ## 📫 Contact
-- Email: your-email@example.com
+- Email: malankargaurav4@gmail.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 
