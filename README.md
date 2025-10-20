@@ -82,6 +82,11 @@ Here are some ideas to get you started:
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravUmeshMalankar&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravUmeshMalankar&layout=compact&theme=tokyonight)
 
+
+![GitHub Snake Light](https://raw.githubusercontent.com/GauravUmeshMalankar/GauravUmeshMalankar/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/GauravUmeshMalankar/GauravUmeshMalankar/output/snake-dark.svg#gh-dark-mode-only)
+
+
 ---
 
 ✨ *“Code with purpose, learn with passion, and build with creativity!”*  
