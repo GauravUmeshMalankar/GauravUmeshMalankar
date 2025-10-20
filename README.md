@@ -19,15 +19,14 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Gaurav Malankar  
 
-🎯 **Software Developer** | Developerr*  
+🎯 **Software Developer | Frontend | Backend | FullStack Developer**  
 [![Portfolio](https://img.shields.io/badge/🌐_Visit-Portfolio-blue?style=for-the-badge)](https://gauravumeshmalankar.github.io/Portfolio/)
 
 
 
 
 
-## 🛠 **Skills**
-- Python ·Django  ·C# ·ASP.NET · PHP · MySQL ·HTML ·CSS · Bootstrap  
+
 
 ---
 
